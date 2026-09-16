@@ -55,4 +55,6 @@ Python, numpy, scipy.stats, matplotlib, seaborn.
 
 ## Установка зависимостей
 
+```
 pip install -r requirements.txt
+```
